@@ -1,8 +1,14 @@
 # Terreneitor
 Repositorio para la catedra de Laboratorio de Sistemas Embebidos.
 
-## Impresiones 3D:
-Maquina de dibujo: https://www.thingiverse.com/srferrete/collections/9522640/things
+## Impresiones:
+Piezas 3D necesarias: https://www.thingiverse.com/srferrete/collections/9522640/things
+
+## Software:
+Inkscape which is the graphics design software (draw or import graphics): https://inkscape.org/
+How to generate G-Code: https://www.youtube.com/watch?v=jD5ctbCfGyQ
+Universal G Code Sender: https://winder.github.io/ugs_website/
+GRBL which is the Arduino firmware: https://github.com/grbl/grbl
 
 ## Materiales disponibles:
 1x HOTEND SIMIL E3D ptfe 1.75mm
