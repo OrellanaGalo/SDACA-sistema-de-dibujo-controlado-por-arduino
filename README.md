@@ -1,6 +1,10 @@
 # Terreneitor
 Repositorio para la catedra de Laboratorio de Sistemas Embebidos.
 
+# Links relevantes:
+## Impresiones 3D:
+[Maquina de dibujo:]https://www.thingiverse.com/srferrete/collections/9522640/things
+
 # MATERIALES DISPONIBLES:
 1x HOTEND SIMIL E3D ptfe 1.75mm
 
